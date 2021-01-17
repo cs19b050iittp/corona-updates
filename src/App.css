@@ -1,0 +1,54 @@
+h1{
+  font-size: 50px;
+  border-bottom:4px solid brown;
+}
+
+ul{
+  list-style: none;
+}
+li{
+  margin: 10px 0px;
+  font-size: 30px;
+}
+.confirmed{
+  text-align: center;
+  border-bottom:4px solid orange;
+  color: orange;;
+}
+.deaths{
+  text-align: center;
+  border-bottom:4px solid red;
+  color: red;
+}
+.active{
+  text-align: center;
+  border-bottom:4px solid greenyellow;
+  color:greenyellow;
+}
+.list-c{
+  text-align: center;
+  box-shadow: 1px 1px 1px 1px orange;
+  color: orange;
+}
+.list-a{
+  text-align: center;
+  box-shadow: 1px 1px 1px 1px greenyellow;
+  color: greenyellow;
+}
+.list-d{
+  text-align: center;
+  box-shadow: 1px 1px 1px 1px red;
+  color: red;
+}
+.list-s{
+  box-shadow: 1px 1px 1px 1px black;
+  color: black;
+}
+
+p{
+  margin-top: 30px;
+  box-shadow: 1px 1px 2px 2px black;
+  color: black;
+  text-align: center;
+  font-size: 80px;
+}
